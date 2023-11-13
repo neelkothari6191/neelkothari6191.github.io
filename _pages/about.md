@@ -8,26 +8,30 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>Room 36-776A</p>
-    <p>50 Vassar St. </p>
-    <p>(MIT building 36) </p>
-    <p>Cambridge, MA 02139</p>
+  # address: >
+  #   <p>Room 36-776A</p>
+  #   <p>50 Vassar St. </p>
+  #   <p>(MIT building 36) </p>
+  #   <p>Cambridge, MA 02139</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am currently a fifth-year Ph.D. student at MIT majoring in Electrical Engineering and Computer Science.
-My research focuses on machine learning and developing robust and efficient algorithms driven by clinical problems.
-Applications include motion-robust 3D rendering of the human brain, real-time quality assessment in MR scans as well as pose estimation and motion characterization of fetuses.
-I am advised by Prof. [Elfar Adalsteinsson](https://www.rle.mit.edu/people/directory/elfar-adalsteinsson/) and collaborate closely with Prof. [Polina Golland](https://people.csail.mit.edu/polina/) and Prof. [P. Ellen Grant](https://scholar.google.com/citations?user=W4dqZ7EAAAAJ).
+Hi! I am currently a final-year undergraduate student at [Dwarkadas J. Sanghvi College of Engineering](https://www.djsce.ac.in/) majoring in Computer Engineering.
+My research interests lie in Computer Vision, Generative AI, Deep Learning, Machine Learning and developing robust and efficient algorithms/ solutions driven by social trust and safety and problems related to mitigation of misinformation.
+I have worked on deepfake-detection, action-recognition, image-segmentation, speech-recognition and medical imaging among other machine learning problems involving classification and predictive modelling. 
 
-I also did summer internships at Google and Meta, working on automated Ads bidding and large-scale video recommendation systems respectively.
+I have been involved with [Dr. Pratik Kanani](https://www.researchgate.net/profile/Pratik-Kanani) in long-term research in the domain of Computer Networks, particularly providing low-latency solutions for healthcare/ social applications.
+I am advised by [Dr. Kiran Bhowmick](https://www.researchgate.net/profile/Kiran-Bhowmick) in my undergrad dissertation on Deepfake Detection and collaborate closely [Prof. Ruhina Karani](https://www.researchgate.net/profile/Ruhina-Karani) in Computer Vision research solving multimodal classification problems.
+I have also collaborated with [Dr. Aruna Gawade](https://scholar.google.com/citations?user=IMFy_ugAAAAJ&hl=en) in Medical Imaging, [Dr. Ramchandra Mangrulkar](https://www.researchgate.net/profile/Ramchandra-Mangrulkar) in Image Encryption.
 
-Prior to MIT, I received my Bachelor's degree from Tsinghua University in 2018. I also spent a summer as a research assistant at Stanford, where I was advised by Prof. [John Pauly](https://web.stanford.edu/~pauly/) and Prof. [Greg Zaharchuk](https://profiles.stanford.edu/greg-zaharchuk).
+I have also been involved in long-term research as a Machine Learning Intern at the [Indian Institute of Technology-Patna (IIT-P)](https://www.iitp.ac.in/), guided by [Dr. Raju Halder](https://www.researchgate.net/profile/Raju-Halder) and [Medhasree Ghosh](https://scholar.google.ch/citations?user=DsGb9mgAAAAJ&hl=en) where I experiment with temporal graphs, time-varying 3D matrices, Graph Neural Networks and using models like
+Autoencoders, CNNs, LSTMs, RNN, BERT, GRUs, GANs on Ethereum data to interpret the evolving behavior of
+phishing/fraudulent users.
+
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.test
