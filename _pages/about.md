@@ -21,8 +21,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi! I am currently a final-year undergraduate student at [Dwarkadas J. Sanghvi College of Engineering](https://www.djsce.ac.in/) majoring in Computer Engineering.
-My research interests lie in Computer Vision, Generative AI, Deep Learning, Machine Learning and developing robust and efficient algorithms/ solutions driven by social trust and safety and problems related to mitigation of misinformation.
-I have worked on deepfake-detection, action-recognition, image-segmentation, speech-recognition and medical imaging among other machine learning problems involving classification and predictive modelling. 
+My research interests lie in Computer Vision, Generative AI, Deep Learning, Machine Learning. 
+
+My current area of research lies in developing robust and efficient solutions driven by social trust and safety and problems related to mitigation of misinformation/ disinformation and Deepfakes. In this respect, I am guided by [Dr. Swapneel Mehta](https://swapneelm.github.io/), through [SimPPL](https://simppl.org/team), a research collective in the global south, developing open-access trust and safety tools for international orgs. including nonprofits and newsrooms. Here, we aim to build better civic integrity tools such as Parrot Report. We’ve worked with Anti Defamation League, Tech Global Institute, The Sunday Times, Ippen Media, Deutsche Welle and received support from the Wikimedia Foundation ([WikiCred](https://meta.m.wikimedia.org/wiki/WikiCred/2022_CFP/Audit_the_Impact_of_Credibility_in_Online_Information_Ecosystems)), [Google exploreCSR](https://research.google/outreach/explore-csr/recipients/), AWS, the NYC Media Lab, [AI2Amplify](https://www.goethe.de/prj/aia/en/index.html) (German Federal funding), and the NYU Tech Venture Workshop.
+
+I also continue to work on action-recognition, image-segmentation, speech-recognition and medical imaging among other machine learning problems involving classification and predictive modelling. 
 
 I have been involved with [Dr. Pratik Kanani](https://www.researchgate.net/profile/Pratik-Kanani) in long-term research in the domain of Computer Networks, particularly providing low-latency solutions for healthcare/ social applications.
 I am advised by [Dr. Kiran Bhowmick](https://www.researchgate.net/profile/Kiran-Bhowmick) in my undergrad dissertation on Deepfake Detection and collaborate closely [Prof. Ruhina Karani](https://www.researchgate.net/profile/Ruhina-Karani) in Computer Vision research solving multimodal classification problems.
