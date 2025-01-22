@@ -20,26 +20,69 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+
 Hi! I am currently a Master's Degree student at [Georgia Institute of Technology](https://www.gatech.edu/) majoring in Computational Science and Engineering.
-My research interests lie in Computer Vision, Generative AI, Deep Learning, Machine Learning. 
+My research interests and experiences lie in various applications of Machine Learning, Data Science, Deep Learning, Computer Vision, NLP, Generative AI.  
 
-My current area of research lies in developing robust and efficient solutions driven by social trust and safety and problems related to mitigation of misinformation/ disinformation and Deepfakes. In this respect, I am guided by [Dr. Swapneel Mehta](https://swapneelm.github.io/), through [SimPPL](https://simppl.org/team), a research collective primarily in the global south, developing open-access trust and safety tools for international orgs. including nonprofits and newsrooms. Here, we aim to build better civic integrity tools such as [Parrot Report](https://parrot.report/about) and [Sakhi](https://sakhi.simppl.org/). We’ve worked with Anti Defamation League, Tech Global Institute, The Sunday Times, Ippen Media, Deutsche Welle and received support from the Wikimedia Foundation ([WikiCred](https://meta.m.wikimedia.org/wiki/WikiCred/2022_CFP/Audit_the_Impact_of_Credibility_in_Online_Information_Ecosystems)), [Google exploreCSR](https://research.google/outreach/explore-csr/recipients/), AWS, the NYC Media Lab, [AI2Amplify](https://www.goethe.de/prj/aia/en/index.html) (German Federal funding), and the NYU Tech Venture Workshop.
+### Research Collaborations
 
-I continue to actively work on action-recognition, image-segmentation, speech-recognition and medical imaging among other machine learning problems involving classification and predictive modelling. 
+<div class="timeline">
+<div class="timeline-item">
+    <h3>2024-Present</h3>
+    <p>
+  Involved in NLP research, investigating Cultural Biases in Large Language Models (LLMs) with <a href="https://cocoxu.github.io/#advise" target="_blank">Dr. Wei Xu</a> [NLP X Lab]
+</p>
 
-I have been involved with [Dr. Pratik Kanani](https://www.researchgate.net/profile/Pratik-Kanani) in long-term research in the domain of Computer Networks and Computer Vision, particularly providing low-latency and accurate solutions for healthcare/ social applications.
-I have been advised by [Dr. Kiran Bhowmick](https://www.researchgate.net/profile/Kiran-Bhowmick) in my undergrad dissertation on Deepfake Detection and collaborate closely [Prof. Ruhina Karani](https://www.researchgate.net/profile/Ruhina-Karani) in Computer Vision research solving multimodal classification problems.
-I have collaborated with [Dr. Aruna Gawade](https://scholar.google.com/citations?user=IMFy_ugAAAAJ&hl=en) in Medical Imaging, [Dr. Ramchandra Mangrulkar](https://www.researchgate.net/profile/Ramchandra-Mangrulkar) in Image Encryption.
+  </div>
+  <div class="timeline-item">
+    <h3>2023</h3>
+  <p>  
+ Got involved with <a href="https://simppl.org/team" target="_blank">SimPPL</a>, a research collective primarily based in the Global South that develops open-access trust and safety tools for international organizations, including nonprofits and newsrooms.
+  Here, guided by 
+  <a href="https://swapneelm.github.io/" target="_blank">Dr. Swapneel Mehta</a>, I developed robust and efficient solutions driven by social trust and safety, addressing problems related to the mitigation of misinformation, disinformation, and Deepfakes. We aim to build better civic integrity tools such as 
+  <a href="https://parrot.report/about" target="_blank">Parrot Report</a> and 
+  <a href="https://sakhi.simppl.org/" target="_blank">Sakhi</a>. We collaborated with the Anti-Defamation League, Tech Global Institute, The Sunday Times, Ippen Media, and Deutsche Welle. Our work has received support from the Wikimedia Foundation 
+  (<a href="https://meta.m.wikimedia.org/wiki/WikiCred/2022_CFP/Audit_the_Impact_of_Credibility_in_Online_Information_Ecosystems" target="_blank">WikiCred</a>), 
+  <a href="https://research.google/outreach/explore-csr/recipients/" target="_blank">Google exploreCSR</a>, AWS, the NYC Media Lab, 
+  <a href="https://www.goethe.de/prj/aia/en/index.html" target="_blank">AI2Amplify</a> (German Federal funding), and the NYU Tech Venture Workshop.
+</p>
 
-I have also been involved in long-term research as a Machine Learning Intern at the [Indian Institute of Technology-Patna (IIT-P)](https://www.iitp.ac.in/), guided by [Dr. Raju Halder](https://www.researchgate.net/profile/Raju-Halder) and [Medhasree Ghosh](https://scholar.google.ch/citations?user=DsGb9mgAAAAJ&hl=en) where I experimented with temporal graphs, time-varying 3D matrices, Graph Neural Networks and using models like
-Autoencoders, CNNs, LSTMs, RNN, BERT, GRUs, GANs on Ethereum data to interpret the evolving behavior of
-phishing/fraudulent users.
+  </div>
+  <div class="timeline-item">
+    <h3>2022</h3>
+    <p>
+  Got involved in long-term research as a Machine Learning Intern at the 
+  <a href="https://www.iitp.ac.in/" target="_blank">Indian Institute of Technology-Patna (IIT-P)</a>, guided by 
+  <a href="https://www.researchgate.net/profile/Raju-Halder" target="_blank">Dr. Raju Halder</a> and 
+  <a href="https://scholar.google.ch/citations?user=DsGb9mgAAAAJ&hl=en" target="_blank">Medhasree Ghosh</a>, where I experimented with temporal graphs, time-varying 3D matrices, Graph Neural Networks, and using models such as Autoencoders, CNNs, LSTMs, RNNs, BERT, GRUs, and GANs on Ethereum data to interpret the evolving behavior of phishing/fraudulent users.
+</p>
+
+  </div>
+  <div class="timeline-item">
+    <h3>2021</h3>
+  <p>
+  I got
+   involved with:
+</p>
+<ul>
+  <li>
+    <a href="https://www.researchgate.net/profile/Pratik-Kanani" target="_blank">Dr. Pratik Kanani</a> in long-term research in the domain of Computer Networks and Computer Vision, particularly providing low-latency and accurate solutions for healthcare/social applications.
+  </li>
+  <li>
+    <a href="https://www.researchgate.net/profile/Kiran-Bhowmick" target="_blank">Dr. Kiran Bhowmick</a> in my undergrad dissertation on Deepfake Detection.
+  </li>
+  <li>
+    Collaboration with <a href="https://www.researchgate.net/profile/Ruhina-Karani" target="_blank">Prof. Ruhina Karani</a> in Computer Vision research solving multimodal classification problems. (<a href="https://ijits-bg.com/index.php/2023.v15.i4.09" target="_blank">publication</a>)
+  </li>
+  <li>
+    <a href="https://scholar.google.com/citations?user=IMFy_ugAAAAJ&hl=en" target="_blank">Dr. Aruna Gawade</a> in Medical Imaging. (<a href="https://ijisae.org/index.php/IJISAE/article/view/3517" target="_blank">publication</a>)
+  </li>
+  <li>
+    <a href="https://www.researchgate.net/profile/Ramchandra-Mangrulkar" target="_blank">Dr. Ramchandra Mangrulkar</a> in Image Encryption.
+  </li>
+</ul>
+
+  </div>
+</div>
 
 
-<!--
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.test
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
