@@ -1165,5 +1165,25 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
     grid-column: none;
   }
 }
+.timeline {
+  margin: 20px 0;
+  padding: 0;
+}
+
+.timeline-item {
+  margin-bottom: 20px;
+  padding-left: 15px;
+  border-left: 2px solid #ccc;
+}
+
+.timeline-item h3 {
+  margin: 0 0 5px;
+  font-size: 18px;
+}
+
+.timeline-item p {
+  margin: 0;
+  font-size: 14px;
+}
 
 /*# sourceMappingURL=main.css.map */
