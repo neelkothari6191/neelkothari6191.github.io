@@ -11,8 +11,10 @@ $max-content-width: {{ site.max_width }};
   "themes",
   "layout",
   "base",
-  "distill"
+  "distill",
+  "experience" // Add this line to import the new styles
 ;
+
 .timeline {
   margin: 20px 0;
   padding: 0;

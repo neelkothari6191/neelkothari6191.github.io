@@ -1,0 +1,52 @@
+- company: <strong>Systems for AI Lab [SAIL]</strong>
+  location: Atlanta, Georgia
+  logo: /assets/img/experience/sail.jpg
+  roles:
+    - title: AI Research Student
+      dates: August 2025 – Present
+      bullets:
+        - Optimal algorithm selection for important token selection in LLMs
+
+- company: <strong>Equifax</strong>
+  location: Atlanta, Georgia
+  logo: /assets/img/experience/equifax.png
+  roles:
+    - title: Data Science and AI Intern
+      dates: May 2025 – August 2025
+      bullets:
+        - Worked on an Agentic AI centric, internal tool.
+        - Skills- Prompt Engineering, VertexAI, Gemini, BigQuery, GCP
+
+- company: <strong>NLP X Lab</strong>
+  location: Atlanta, Georgia
+  logo: /assets/img/experience/nlpx.jpg
+  roles:
+    - title: AI Research Student
+      dates: April 2025 – Present
+      bullets:
+        - Investigated Cultural Biases in LLMs
+
+- company: <strong>SimPPL</strong>
+  location: New York, New York
+  logo: /assets/img/experience/simppl.jpg
+  roles:
+    - title: AI Research Engineer
+      dates: Feb 2023 – Jan 2024
+      bullets:
+        - Worked on an RAG menstrual health chatbot and carried analyses to mitigate disinformation operations on social networking platforms
+        - Skills- RAG, Fine Tuning LLMs, AWS, GPT-4o, HuggingFace, Docker, Weaviate
+
+- company: <strong>Indian Institute of Technology (IIT)-Patna</strong>
+  location: Patna, Bihar
+  logo: /assets/img/experience/iit.png
+  roles:
+    - title: Machine Learning Research Intern
+      dates: December 2022 – Jan 2024
+      bullets:
+        - Worked on fraud detection on the Ethereum Blockchain
+        - Skills/Tools- GNN, Transformer, Autoencoders, Keras, Tensorflow, Pandas
+
+
+
+ 
+    

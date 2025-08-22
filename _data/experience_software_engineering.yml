@@ -1,0 +1,20 @@
+- company: <strong>ICICI General Insurance Company</strong>
+  location: Mumbai, India
+  logo: /assets/img/experience/icici.png
+  roles:
+    - title: Software Developer Intern
+      dates: June 2023 – August 2023
+      bullets:
+        - Worked on an internal cross-platform inventory management application.
+        - Skills- React, RestAPI, Flutter, Node.js, MongoDB, Next.js, OAuth.
+
+- company: <strong>The Friday Company</strong>
+  location: Mumbai, India
+  logo: /assets/img/experience/tfc.png
+  roles:
+    - title: Software Engineering Intern
+      dates: Oct 2022 – Feb 2023
+      bullets:
+        - Worked on the flagship cross-platform gaming application.
+        - Skills- Flutter, RestAPI, GraphQL.
+

@@ -19,6 +19,7 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'listen', '~> 3.7'
+    gem "jekyll-sass-converter", "~> 2.1.0"
     # gem 'wdm', '~> 0.1.0'
     # gem 'mini_racer'
     gem 'unicode_utils'

@@ -8,7 +8,7 @@ nav_order: 5
 ---
 ## Georgia Institute of Technology
 
-- CS6440: Introduction to Health Informatics, Teaching Assistant Spring-2025, Dr. Jon Duke
+- CS6440: Introduction to Health Informatics, Graduate Teaching Assistant [Spring-2025, Fall-2025] 
 
 ## Dwarkadas J. Sanghvi College of Engineering
 

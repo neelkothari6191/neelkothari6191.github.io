@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -22,22 +22,29 @@ social: true  # includes social icons at the bottom of the page
 
 
 Hi! I am currently a Master's Degree student at [Georgia Institute of Technology](https://www.gatech.edu/) majoring in Computational Science and Engineering.
-My research interests and experiences lie in various applications of Machine Learning, Data Science, Deep Learning, Computer Vision, NLP, Generative AI.  
+My interests and experiences lie in various applications of **AI and Machine Learning, Data Science, Deep Learning**.  
 
 ### Research Collaborations
 
 <div class="timeline">
 <div class="timeline-item">
-    <h3>2024-Present</h3>
+    <h3>2025-Present</h3>
     <p>
-  Involved in NLP research, investigating Cultural Biases in Large Language Models (LLMs) with <a href="https://cocoxu.github.io/#advise" target="_blank">Dr. Wei Xu</a> [NLP X Lab]
+  Involved in LLM Token selection optimization research with <a href="https://faculty.cc.gatech.edu/~atumanov/" target="_blank">Dr. Alexey Tumanov</a> in the <a href="https://gatech-sysml.github.io/" target="_blank"><strong>Systems for AI Lab </strong>[SAIL]</a>
+</p>
+
+  </div>
+<div class="timeline-item">
+    <h3>2024-2025</h3>
+    <p>
+  Involved in NLP research, investigating Cultural Biases in Large Language Models (LLMs) with <a href="https://cocoxu.github.io/#advise" target="_blank">Dr. Wei Xu</a> <strong>[NLP X Lab]</strong>
 </p>
 
   </div>
   <div class="timeline-item">
     <h3>2023</h3>
   <p>  
- Got involved with <a href="https://simppl.org/team" target="_blank">SimPPL</a>, a research collective primarily based in the Global South that develops open-access trust and safety tools for international organizations, including nonprofits and newsrooms.
+ Got involved with <a href="https://simppl.org/team" target="_blank"><strong>SimPPL</strong></a>, a research collective primarily based in the Global South that develops open-access trust and safety tools for international organizations, including nonprofits and newsrooms.
   Here, guided by 
   <a href="https://swapneelm.github.io/" target="_blank">Dr. Swapneel Mehta</a>, I developed robust and efficient solutions driven by social trust and safety, addressing problems related to the mitigation of misinformation, disinformation, and Deepfakes. We aim to build better civic integrity tools such as 
   <a href="https://parrot.report/about" target="_blank">Parrot Report</a> and 
@@ -52,7 +59,7 @@ My research interests and experiences lie in various applications of Machine Lea
     <h3>2022</h3>
     <p>
   Got involved in long-term research as a Machine Learning Intern at the 
-  <a href="https://www.iitp.ac.in/" target="_blank">Indian Institute of Technology-Patna (IIT-P)</a>, guided by 
+  <a href="https://www.iitp.ac.in/" target="_blank">Indian Institute of Technology-Patna <strong>(IIT-P)</strong></a>, guided by 
   <a href="https://www.researchgate.net/profile/Raju-Halder" target="_blank">Dr. Raju Halder</a> and 
   <a href="https://scholar.google.ch/citations?user=DsGb9mgAAAAJ&hl=en" target="_blank">Medhasree Ghosh</a>, where I experimented with temporal graphs, time-varying 3D matrices, Graph Neural Networks, and using models such as Autoencoders, CNNs, LSTMs, RNNs, BERT, GRUs, and GANs on Ethereum data to interpret the evolving behavior of phishing/fraudulent users.
 </p>
